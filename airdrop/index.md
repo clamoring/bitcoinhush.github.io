@@ -32,3 +32,7 @@ Hush isn't on by default in Agama. Go to 'Enable Experimental Features' in 'Wall
 
 Now you should be able to add Hush to your Agama wallet.
 ![add_hush](https://raw.githubusercontent.com/clamoring/Collecting_BTCH_airdrop/master/add_hush.png "first screen")
+
+
+Written by: Tamsin Thorn  
+[BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=1543007;sa=showPosts) |  [LinkedIn](https://www.linkedin.com/in/tamsin-thorn-a5178383/) 
